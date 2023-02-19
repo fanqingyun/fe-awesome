@@ -1,0 +1,19 @@
+lockfileVersion: 5.4
+
+specifiers:
+  folktale: ^2.3.2
+  lodash: ^4.17.21
+
+dependencies:
+  folktale: 2.3.2
+  lodash: 4.17.21
+
+packages:
+
+  /folktale/2.3.2:
+    resolution: {integrity: sha512-+8GbtQBwEqutP0v3uajDDoN64K2ehmHd0cjlghhxh0WpcfPzAIjPA03e1VvHlxL02FVGR0A6lwXsNQKn3H1RNQ==}
+    dev: false
+
+  /lodash/4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==}
+    dev: false
